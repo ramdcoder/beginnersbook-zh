@@ -27,6 +27,7 @@
 +   [MongoDB 教程](docs/mongodb/SUMMARY.md)
 +   [Perl 教程](docs/perl/SUMMARY.md)
 +   [Servlet 教程](docs/servlet/SUMMARY.md)
++   [JavaPrograms](https://www.flowerbrackets.com/category/java-programs/)
 
 ## 下载
 
